@@ -1,7 +1,7 @@
 # Basics of Statistics Part 1 (by Anatoly Karpov)
 This repository contains my materials and an outline for one of the most famous statistics courses in Russia by Anatoly Kaprov.
 
-Anatoly Karpov is a well-known expert with experience in the top companies, whose courses (including this one) were so popular that he decided to create his own data science online school. Currently, the school offers a large number of data analytics and machine learning courses, and is a direct competitor of the largest player in online education - Yandex.
+**Anatoly Karpov** is a well-known expert with experience in the top companies, whose courses (including this one) were so popular that he decided to create his own data science online school **karpov.courses**. Currently, the school offers a large number of data analytics and machine learning courses, and is a direct competitor of the largest player in online education - Yandex.
 
 ## Course Contents
 1. Basic statistical concepts: population, sample, measures of central tendency (mean, median, mode) and measures of variability (variance, spread)
